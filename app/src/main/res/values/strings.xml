@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Jetpack3</string>
+    <string name="image">image</string>
+    <string name="content_title">Content Title</string>
+    <string name="content_rating">10.0</string>
+    <string name="release_date">08-17-1945</string>
+    <string name="icon">icon</string>
+    <string name="favourite">Favourite</string>
+    <string name="movies">Movies</string>
+    <string name="tv_series">TV Series</string>
+    <string name="favourites">Favourites</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_button">play</string>
+    <string name="detail_content_image">content image</string>
+    <string name="overview">Overview</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+    <string name="salah">Terjadi Kesalahan!</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
